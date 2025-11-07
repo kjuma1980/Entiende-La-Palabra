@@ -1,0 +1,5 @@
+{
+  "name": "Asistente de Estudio Bíblico",
+  "description": "Una aplicación para entender, investigar y buscar en la Biblia utilizando IA para proporcionar explicaciones detalladas, versículos relacionados y temas de estudio adicionales.",
+  "requestFramePermissions": []
+}
